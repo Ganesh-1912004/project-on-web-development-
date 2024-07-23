@@ -1,2 +1,3 @@
-# project-on-web-development-
-Recently I created a small project on web development with the help of CSS , HTML and Bootstrap . It is basically a Menu page of the online Food delivery website.  I am happy to share this project.
+# Food Menu Page Of Online Restaurant Website Using HTML, CSS And BOOTSTRAP
+- The main aim of the project is to showcase the skills in HTML and CSS by developing the attractive menu page of online restaurant.
+- Applied basic fundamentals of HTML and CSS to create the webpage 
